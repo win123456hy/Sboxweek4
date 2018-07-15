@@ -1,0 +1,10 @@
+﻿  Chat_Main.cpp
+  Controller.cpp
+  Chat.cpp
+  stdafx.cpp
+  User.cpp
+  sqlite3.c
+  Generating code
+  All 2260 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  chat_sqlite.vcxproj -> D:\Github\Sboxweek4\chat_sqlite(1)\chat_sqlite\Release\chat_sqlite.exe
