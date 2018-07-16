@@ -20,9 +20,6 @@ void clrscr()
 	FillConsoleOutputAttribute(handle, csbi.wAttributes, size, origin, &len);
 	SetConsoleCursorPosition(handle, origin);
 }
-void hien() {
-
-}
 
 int main()
 {
